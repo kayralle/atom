@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin marketplace add ChatCut-Inc/agent-plugin)",
+      "Bash(claude plugin install chatcut@chatcut-inc)"
+    ]
+  }
+}
